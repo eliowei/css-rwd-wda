@@ -1,2 +1,2 @@
 # css-rwd-wda
-RWD practies
+CSS 作業 - 媒體查詢
